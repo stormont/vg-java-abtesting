@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A-B Testing</string>
+    <string name="hello_world_a">Hello A!</string>
+    <string name="hello_world_b">Hello B!</string>
+    <string name="log_results">Log Results</string>
+
+</resources>
